@@ -2,6 +2,12 @@
 
 We are Appwriters, we make open source application development accessible and fun. We are working on awesome resources and will make them public soon.
 
+> 🎉 Exciting News! 🎉
+> 
+> Level up your Flutter skills in just 30 days with 🚀 [30DaysMasterFlutter](https://appwriters.dev/30days/flutter) 🚀
+>
+> 👨‍💻 [Join the fun and become a Flutter pro!](https://appwriters.dev/30days/flutter) 💪👩‍💻
+
 <!--
 
 **Here are some ideas to get you started:**
